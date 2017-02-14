@@ -1,0 +1,19 @@
+#title{
+  width: 400px;
+  float: left;
+  margin: 5px;
+}
+#writer{
+  width: 150px;
+  float: left;
+  margin: 5px;
+}
+#content{
+  margin: 5px;
+}
+#link{
+  margin: 5px;
+}
+#btn-group{
+  text-align: center;
+}

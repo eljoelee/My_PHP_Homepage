@@ -1,0 +1,34 @@
+@import url("http://fonts.googleapis.com/earlyaccess/jejugothic.css");
+
+a, .content, section, h1, h2, h3, h4, input[type=button]{
+  font-family: 'Jeju Gothic', serif;
+}
+.btngroup{
+  text-align: center;
+}
+p{
+  color: black;
+}
+#writer{
+  width: 10em;
+  float: left;
+}
+#comment{
+  width: 40em;
+  margin-left: 1em;
+  float: left;
+}
+#register{
+  float: left;
+  margin-left: 1em;
+}
+ul.pagination{
+  text-align: center;
+}
+.reply_space > p{
+  margin-top: -2em;
+}
+#reply_enter{
+  position: absolute;
+  left: 25%;
+}

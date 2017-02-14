@@ -1,0 +1,11 @@
+@import url("http://fonts.googleapis.com/earlyaccess/jejugothic.css");
+
+a, section, h1, h2, h3, h4{
+  font-family: 'Jeju Gothic', serif;
+}
+.btn{
+  float: right;
+}
+ul.pagination{
+  text-align: center;
+}
